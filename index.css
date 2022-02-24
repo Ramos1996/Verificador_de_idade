@@ -1,0 +1,31 @@
+form{
+    background:white;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+   padding-left: 10px;
+   border-radius: 10px;
+    
+    
+}
+h1{
+   text-align: center;
+   color: white; 
+}
+
+body{
+    background: rgb(32, 32, 224);
+}
+
+#nasc,#fem,#masc,#ver{
+    margin-top: 20px;
+}
+
+#imagem {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
